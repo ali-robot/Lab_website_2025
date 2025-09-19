@@ -18,9 +18,7 @@ Experience:
 - Embedded systems 
 - Robotics 
 - software Engineering (Startups) 
-
 - Teaching (masters programs)  
-
 - Project Management (automotive) 
 
 
@@ -32,13 +30,16 @@ Experience:
 # Robotics 
 TODO: 
 
+- SLAM (PhD) 
+- Computer Vision 
 
 # AI 
 TODO: 
 
 
+
 # Contact
-- 🔗 LinkedIn: [https://www.linkedin.com/in/ali-alharake-a1807084](https://www.linkedin.com/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ali-alharake-a1807084)
 
 
 
