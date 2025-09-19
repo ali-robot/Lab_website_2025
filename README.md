@@ -24,6 +24,7 @@ My mission is to bridge research and engineering, creating solutions that are no
 
 
 # 🏠 Home 
+TODO:  
 
 
 
@@ -35,9 +36,12 @@ TODO:
 
 # [🧠 AI](AI.md) 
 TODO: 
+TODO: VLMs 
+
 
 # [✍️ Blog](/blog)
-
+TODO: 
+add articles 
 
 # [📬 Contact](/contact)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ali-alharake-a1807084)
