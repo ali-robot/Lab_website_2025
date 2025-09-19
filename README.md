@@ -13,7 +13,7 @@ With a background in **robotics research (PhD)** and experience in **different s
 
 My mission is to bridge research and engineering, creating solutions that are not just theoretical, but **practical, efficient, and deployable**.  
 
-Experience: 
+## Experience: 
 
 - Embedded systems 
 - Robotics 
@@ -27,13 +27,13 @@ Experience:
 
 
 
-# Robotics 
+# [Robotics] (Robotics.md) 
 TODO: 
 
 - SLAM (PhD) 
 - Computer Vision 
 
-# AI 
+# [AI] (AI.md) 
 TODO: 
 
 
