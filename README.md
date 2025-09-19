@@ -27,18 +27,19 @@ My mission is to bridge research and engineering, creating solutions that are no
 
 
 
-# [Robotics] (Robotics.md) 
+# [🤖 Robotics](Robotics.md) 
 TODO: 
 
 - SLAM (PhD) 
 - Computer Vision 
 
-# [AI] (AI.md) 
+# [🧠 AI](AI.md) 
 TODO: 
 
+# [✍️ Blog](/blog)
 
 
-# Contact
+# [📬 Contact](/contact)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ali-alharake-a1807084)
 
 
