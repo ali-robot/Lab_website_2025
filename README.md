@@ -15,9 +15,12 @@ With a background in **robotics research (PhD)** and experience in **different s
 My mission is to bridge research and engineering, creating solutions that are not just theoretical, but **practical, efficient, and deployable**.  
 
 Experience: 
-Startups (software dev)
+Embedded systems
+Robotics
+software Engineering (Startups) 
 Teaching (masters programs)  
-Project Management
+Project Management (automotive)
+
 
 
 # Home 
@@ -33,6 +36,7 @@ TODO:
 
 
 # Contact
+[Linkedin] (https://www.linkedin.com/in/ali-alharake-a1807084/)
 
 
 
