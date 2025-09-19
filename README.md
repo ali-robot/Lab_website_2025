@@ -1,7 +1,6 @@
-# website2025-2
-testing github pages
+# ALi's Lab
 
-
+I share my work and my mission in AI and robotics, let's chat for collaboration. 
 
 
 # Hello, I'm Ali Alharake 👋
