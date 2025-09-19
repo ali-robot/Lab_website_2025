@@ -37,7 +37,6 @@ TODO:
 
 # Contact
 [Linkedin] (https://www.linkedin.com/in/ali-alharake-a1807084/)
-
-
+- 🔗 LinkedIn: [https://www.linkedin.com/in/ali-alharake-a1807084](https://www.linkedin.com/)  
 
 
