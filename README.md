@@ -15,13 +15,13 @@ My mission is to bridge research and engineering, creating solutions that are no
 
 Experience: 
 
-- Embedded systems
-- Robotics
+- Embedded systems 
+- Robotics 
 - software Engineering (Startups) 
 
 - Teaching (masters programs)  
 
-- Project Management (automotive)
+- Project Management (automotive) 
 
 
 
